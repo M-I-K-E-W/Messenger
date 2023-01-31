@@ -2,7 +2,7 @@
 =================
 
 Check the connection string in Models\DataContext.cs Line 26.
-ToDo: Mmoved connection string to a secret config file
+ToDo: Move connection string to a secret config file
 
 
 TO BUILD THE ENTITY MODEL FROM THE DB
