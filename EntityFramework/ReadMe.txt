@@ -31,6 +31,8 @@ TO MIGRATE CHANGES
 
 Update-Database
 
+3) Run the TestData.sql script to poplulate some initial data
+
 DIMENSION DATA
 ==============
 
